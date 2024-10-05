@@ -119,5 +119,50 @@ color: sandybrown;
 
 
 }
+.card footer{
+    font-size: 2rem;
+    color: none;
+    margin: none;
+    font-style: normal;
+}
+.footer2{
+    background-color: rgb(232, 184, 109);
+  
+}
+.col{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+    .COLUMNA2F{
+        font-weight: 100;
+        font-size: 2rem;
+        color: darkorange ;
+        font-family: "Protest Strike", sans-serif;
+        text-align: left;
+       
+      
+    }
+    .tel{
+        font-size: 15px;
+        text-align: left;
+    }
+    .PAULA{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 2rem;
+        text-align: left;
+        font-weight: 800;
+        line-height: 1.5;
+    }
     
-    
+.maria{
+    text-align: left;
+    line-height: 0.5;
+    color: darkorange;
+    font-size: 1.5rem;
+}
+.espinosa{
+    text-align: left;
+    line-height: 3;
+    font-size: 1.5rem1rem;
+    font-weight: none;
+}
